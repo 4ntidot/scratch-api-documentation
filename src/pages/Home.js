@@ -9,7 +9,7 @@ const Home = () => {
 		<Header />
 		<Section id="content">
 			<MainTitle content="Scratch API Documentation" />
-			<Section >
+			<Section>
 				<SubTitle content="Fully Explained" />
 				<Paragraph content="The developpers explored the full API to keep the coders informed." />
 			</Section>
