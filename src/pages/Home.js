@@ -18,7 +18,7 @@ const Home = () => {
 				<Paragraph content="All the scripts are verified and tested to avoid spreading errors." />
 			</Section>
 		</Section>
-	)
+	);
 };
 
 export default Home;
